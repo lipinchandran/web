@@ -1,3 +1,6 @@
 this is the second text file (first commit)
 
 this is the first edit in second file
+
+this is the third commit
+
